@@ -16,7 +16,7 @@
         android:textStyle="bold"/>
     <android.support.v7.widget.RecyclerView
         android:id="@+id/PickerItems"
-        android:layout_width="150dp"
+        android:layout_width="300dp"
         android:layout_height="wrap_content"
         android:dividerHeight="5dp"
         android:clickable="true"
