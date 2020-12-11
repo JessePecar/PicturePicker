@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:components="clr-namespace:PicturePicker.Components"
+             x:Class="PicturePicker.Views.HomeView">
+    <ContentPage.Content>
+        <StackLayout>
+            <components:CustomPicker Title="Picture Picker"></components:CustomPicker>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
